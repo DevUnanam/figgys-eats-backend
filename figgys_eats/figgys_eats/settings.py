@@ -75,6 +75,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'figgys_eats.wsgi.application'
 
 
+
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
