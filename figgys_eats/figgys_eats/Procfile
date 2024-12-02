@@ -1,1 +1,0 @@
-web: gunicorn figgys_eats.wsgi:application
